@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="teller" size="0.050000 0.052000" />
+    <ImageTarget name="lounge" size="0.050000 0.050207" />
+    <ImageTarget name="VIB-Cash-Back" size="0.053000 0.033480" />
+    <ImageTarget name="VIB-ZeroIR" size="0.053000 0.033480" />
+  </Tracking>
+</QCARConfig>
